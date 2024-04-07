@@ -14,6 +14,7 @@ Task: 키오스크 챗봇 개발을 위한 slot filling
 
 ## :heart: Collaborator:heart:
    
-|[<img src="https://user-images.githubusercontent.com/101535851/197529689-8f333988-5396-4528-862f-78143f94e0de.png" width = 100>](https://github.com/hye0n22)|[<img src="https://avatars.githubusercontent.com/u/115800583?v=4" width = 100>](https://github.com/Coding-Child)|
-|-|-|
-|김현이|박수형|
+
+|[<img src="https://avatars.githubusercontent.com/u/149289681?v=4" width = 100>](https://github.com/melona-19)|[<img src="https://user-images.githubusercontent.com/101535851/197529689-8f333988-5396-4528-862f-78143f94e0de.png" width = 100>](https://github.com/hye0n22)|[<img src="https://avatars.githubusercontent.com/u/115800583?v=4" width = 100>](https://github.com/Coding-Child)|[<img src="https://avatars.githubusercontent.com/u/138972965?v=4" width = 100>](https://github.com/jinnwooo)|
+|-|-|-|-|
+|김건호|김현이|박수형|정진우|
