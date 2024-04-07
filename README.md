@@ -18,3 +18,40 @@ Task: 키오스크 챗봇 개발을 위한 slot filling
 |[<img src="https://avatars.githubusercontent.com/u/149289681?v=4" width = 100>](https://github.com/melona-19)|[<img src="https://user-images.githubusercontent.com/101535851/197529689-8f333988-5396-4528-862f-78143f94e0de.png" width = 100>](https://github.com/hye0n22)|[<img src="https://avatars.githubusercontent.com/u/115800583?v=4" width = 100>](https://github.com/Coding-Child)|[<img src="https://avatars.githubusercontent.com/u/138972965?v=4" width = 100>](https://github.com/jinnwooo)|
 |-|-|-|-|
 |김건호|김현이|박수형|정진우|
+
+
+
+
+
+<-
+### Members
+
+<table>
+  <tr>
+    <td align="center">
+        <a href="https://github.com/jerife">
+            <img src="https://user-images.githubusercontent.com/68190553/161420117-a4c01c9f-7ac0-4c18-a364-974df1574272.png" width="100px;" alt=""/>
+            <br /><sub><b>Jaewoo Park</b></sub></a>
+        </a>
+      </td>
+    <td align="center">
+        <a href="https://github.com/hynjxn">
+            <img src="https://user-images.githubusercontent.com/68190553/161420461-1067b26a-70af-4121-9024-70f8bb598b22.png" width="100px;" alt=""/>
+            <br /><sub><b>Hyunjin Lee</b></sub></a>
+        </a>
+      </td>
+    <td align="center">
+        <a href="https://github.com/minah9999">
+            <img src="https://user-images.githubusercontent.com/68190553/161420485-71dca094-b38a-43c4-b201-f63b86dce1fe.png" width="100px;" alt=""/>
+            <br /><sub><b>Minah Choi</b></sub></a>
+        </a>
+      </td>
+    <td align="center">
+        <a href="https://github.com/ShinEun9">
+            <img src="https://user-images.githubusercontent.com/68190553/161420569-30e9f979-8ab4-4772-9066-324a5f310fbf.png" width="100px;" alt=""/>
+            <br /><sub><b>Eunsu Shin</b></sub></a>
+        </a>
+      </td>
+</table>
+
+->
