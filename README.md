@@ -1,4 +1,4 @@
-# DL_Lecture_Project
+# Slot filling for kiosk chatbot development
 
 This is Project in Deep Learning Class!
 
