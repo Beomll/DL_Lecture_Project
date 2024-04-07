@@ -24,7 +24,7 @@ Task: 키오스크 챗봇 개발을 위한 slot filling
 
 
 
-''' ### Members
+<!-- ### Members
 
 <table>
   <tr>
@@ -52,4 +52,5 @@ Task: 키오스크 챗봇 개발을 위한 slot filling
             <br /><sub><b>Eunsu Shin</b></sub></a>
         </a>
       </td>
-</table>'''
+</table>
+-->
